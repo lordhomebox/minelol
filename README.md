@@ -7,6 +7,9 @@ Planned Features
 ================
 
 -Turret Mechanics
+
 -Skills
+
 -Weapon / Armor Balancing 
+
 -Level based scaling
